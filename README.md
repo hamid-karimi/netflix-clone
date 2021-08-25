@@ -1,6 +1,7 @@
 <a href="https://netflix-clone-ead3a.web.app/">Live Demo</a>
 
-A Netflix Clone Created by React, Redux, Firebase Real-Time database, Auth and Hosting and used TMDB API for Movies List.
+A Netflix Clone Created by React, Redux, Firebase Real-Time database, Auth and Hosting.
+This app used <a href="https://developers.themoviedb.org/3/getting-started/introduction">TMDB API</a> for Movies List. You need to put your own API_KEY on requests.js file.
 
 ## Available Scripts
 
