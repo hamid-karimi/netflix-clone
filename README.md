@@ -1,6 +1,6 @@
 <a href="https://netflix-clone-ead3a.web.app/">Live Demo</a>
 
-A Netflix Clone Created by React, Redux, Firebase Real-Time database, Auth and Hosting.
+A Netflix Clone Created by React, Redux, Firebase Real-Time database, Auth and Hosting and used TMDB API for Movies List.
 
 ## Available Scripts
 
