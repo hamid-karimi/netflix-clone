@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+<a href="https://netflix-clone-ead3a.web.app/">Live Demo</a>
+
+A Netflix Clone Created by React, Redux, Firebase Real-Time database, Auth and Hosting.
 
 ## Available Scripts
 
